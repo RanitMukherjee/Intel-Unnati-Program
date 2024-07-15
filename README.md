@@ -22,17 +22,16 @@ To get started with the Literature Chatbot, follow these simple steps:
 
    ```bash
    git clone https://github.com/RanitMukherjee/Intel-Unnati-Program.git
+   ```
 
 # Install Dependencies
 
 Navigate to the cloned repository's directory and install the required dependencies.
     
-    ```bash
     pip install -r requirements.txt
 
 ## Run the Application
 
-    ```bash
     streamlit run streamlit.py
 
 Launch the chatbot application using Streamlit.
